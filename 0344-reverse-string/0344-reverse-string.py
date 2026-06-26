@@ -13,10 +13,12 @@ class Solution:
                 break
                 '''             #Ish line ki jarurat hi nahi h bcs loop(left<right)
 
-            s[left], s[right] = s[right], s[left]
+            # s[left], s[right] = s[right], s[left]
+            # left+=1
+            # right-=1
+            
+            temp = s[left]
+            s[left] = s[right]          
+            s[right] = temp   #We can also use this
             left+=1
             right-=1
-            
-            ''' temp = s[left]
-                s[left] = s[right]          
-                s[right] = temp'''   #We can also use this
