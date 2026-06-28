@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0010-regular-expression-matching) |
 | [0058-length-of-last-word](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0412-fizz-buzz) |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0412-fizz-buzz) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
