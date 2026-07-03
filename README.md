@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0412-fizz-buzz) |
 ## Math
@@ -65,8 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
