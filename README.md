@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1929-concatenation-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -70,14 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0383-ransom-note) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
