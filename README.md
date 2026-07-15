@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0125-valid-palindrome) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0392-is-subsequence) |
 ## Recursion
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
