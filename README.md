@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0392-is-subsequence) |
 ## Recursion
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
