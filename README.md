@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0168-excel-sheet-column-title) |
 | [0412-fizz-buzz](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0412-fizz-buzz) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
