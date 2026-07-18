@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0242-valid-anagram) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0168-excel-sheet-column-title) |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
