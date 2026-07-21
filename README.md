@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0283-move-zeroes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0070-climbing-stairs) |
