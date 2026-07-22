@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0283-move-zeroes) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -145,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
