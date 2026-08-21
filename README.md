@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0168-excel-sheet-column-title) |
+| [0263-ugly-number](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
