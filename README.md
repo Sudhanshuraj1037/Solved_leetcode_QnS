@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0095-unique-binary-search-trees-ii) |
 ## Memoization
