@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -237,4 +238,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
