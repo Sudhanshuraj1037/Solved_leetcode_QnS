@@ -257,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0084-largest-rectangle-in-histogram) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
