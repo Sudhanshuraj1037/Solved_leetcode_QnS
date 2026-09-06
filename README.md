@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0066-plus-one) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1929-concatenation-of-array) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
