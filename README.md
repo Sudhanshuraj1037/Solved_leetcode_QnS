@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -216,12 +217,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0110-balanced-binary-tree) |
 | [0733-flood-fill](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
