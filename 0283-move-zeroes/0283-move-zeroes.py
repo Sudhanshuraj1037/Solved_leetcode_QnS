@@ -3,11 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        k = 0
-        for i in range(len(nums)):
+        n = len(nums)
+        temp = []
+
+        for i in range(0, n):
             if nums[i] != 0:
-                nums[k] = nums[i]
-                k += 1
-                
-        for i in range(k, len(nums)):
+                temp.append(nums[i])
+        
+        for i in range(0, len(temp)):
+            nums[i] = temp[i]
+        
+        for i in range(len(temp), n):
             nums[i] = 0
+        return nums
