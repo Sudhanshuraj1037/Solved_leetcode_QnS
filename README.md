@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1929-concatenation-of-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0021-merge-two-sorted-lists) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0424-longest-repeating-character-replacement) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Quicksort
 |  |
