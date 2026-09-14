@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0412-fizz-buzz) |
+| [0836-rectangle-overlap](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0836-rectangle-overlap) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Dynamic Programming
@@ -292,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0459-repeated-substring-pattern) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
