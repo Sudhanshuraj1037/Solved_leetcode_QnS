@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0392-is-subsequence) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0459-repeated-substring-pattern) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0392-is-subsequence) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Enumeration
