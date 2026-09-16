@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1929-concatenation-of-array) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3011-find-if-array-can-be-sorted) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0836-rectangle-overlap) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3001-minimum-moves-to-capture-the-queen) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3012-minimize-length-of-array-using-operations) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Dynamic Programming
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Enumeration
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0836-rectangle-overlap) |
+## Number Theory
+|  |
+| ------- |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3012-minimize-length-of-array-using-operations) |
 <!---LeetCode Topics End-->
