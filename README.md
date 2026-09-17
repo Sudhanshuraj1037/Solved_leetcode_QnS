@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1929-concatenation-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3011-find-if-array-can-be-sorted) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3012-minimize-length-of-array-using-operations) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0424-longest-repeating-character-replacement) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3011-find-if-array-can-be-sorted) |
 ## Counting
 |  |
