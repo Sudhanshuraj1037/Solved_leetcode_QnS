@@ -8,3 +8,16 @@ class Solution:
             max_sum = max(max_sum, current_sum)
 
         return max_sum
+
+
+# class Solution:
+#     def maxSubArray(self, nums: List[int]) -> int:
+#         n = len(nums)
+#         maxi = float('-inf')
+
+#         for i in range(0, n):
+#             total = 0
+#             for j in range(i, n):
+#                 total += nums[j]
+#                 maxi = max(maxi, total)
+#         return maxi
