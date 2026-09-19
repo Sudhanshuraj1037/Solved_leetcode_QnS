@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
 | [0495-teemo-attacking](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0500-keyboard-row) |
 | [0733-flood-fill](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0733-flood-fill) |
 | [1480-running-sum-of-1d-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1672-richest-customer-wealth) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0500-keyboard-row) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0500-keyboard-row) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
