@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0500-keyboard-row) |
 | [0733-flood-fill](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0733-flood-fill) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1480-running-sum-of-1d-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1929-concatenation-of-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3011-find-if-array-can-be-sorted) |
 ## Counting
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
