@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0500-keyboard-row) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2000-reverse-prefix-of-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0084-largest-rectangle-in-histogram) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3012-minimize-length-of-array-using-operations) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
