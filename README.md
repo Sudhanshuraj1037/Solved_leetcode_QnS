@@ -332,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Concurrency
+|  |
+| ------- |
+| [1115-print-foobar-alternately](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1115-print-foobar-alternately) |
 <!---LeetCode Topics End-->
