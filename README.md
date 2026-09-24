@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3011-find-if-array-can-be-sorted) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0836-rectangle-overlap) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Dynamic Programming
 |  |
