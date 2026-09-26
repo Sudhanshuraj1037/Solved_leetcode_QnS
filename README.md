@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0190-reverse-bits) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3011-find-if-array-can-be-sorted) |
 ## Tree
 |  |
