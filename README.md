@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0197-rising-temperature) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## String Matching
 |  |
 | ------- |
