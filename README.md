@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
 | [0495-teemo-attacking](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0495-teemo-attacking) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
