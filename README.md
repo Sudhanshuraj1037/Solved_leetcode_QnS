@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0020-valid-parentheses) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0066-plus-one) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0217-contains-duplicate) |
