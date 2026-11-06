@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1480-running-sum-of-1d-array) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2000-reverse-prefix-of-word) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0392-is-subsequence) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
