@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2000-reverse-prefix-of-word) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2222-number-of-ways-to-select-buildings) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
