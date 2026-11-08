@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1114-print-in-order](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1115-print-foobar-alternately) |
+| [1116-print-zero-even-odd](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/1116-print-zero-even-odd) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
