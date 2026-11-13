@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0836-rectangle-overlap) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3099-harshad-number](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3099-harshad-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Dynamic Programming
