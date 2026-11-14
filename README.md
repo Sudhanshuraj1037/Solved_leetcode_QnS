@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3011-find-if-array-can-be-sorted) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3483-unique-3-digit-even-numbers) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2222-number-of-ways-to-select-buildings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0349-intersection-of-two-arrays) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/0202-happy-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sudhanshuraj1037/Solved_leetcode_QnS/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
